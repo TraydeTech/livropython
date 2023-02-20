@@ -1,5 +1,5 @@
 word = "Garrafas"
-for cerveja_num in range(20, 0, -1):
+for cerveja_num in range(99, 0, -1):
     print(cerveja_num, word, "Ha cerjeva na parede.")
     print(cerveja_num, word, "Ha cerveja.")
     print("pegue 1. ")
